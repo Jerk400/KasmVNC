@@ -1,4 +1,4 @@
-FROM ubuntu:jammy
+FROM ubuntu:kinetic
 
 ENV KASMVNC_BUILD_OS ubuntu
 ENV KASMVNC_BUILD_OS_CODENAME jammy
