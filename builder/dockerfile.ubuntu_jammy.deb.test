@@ -1,4 +1,4 @@
-FROM ubuntu:jammy
+FROM ubuntu:kinetic
 
 ENV DISPLAY=:1 \
     VNC_PORT=8443 \
