@@ -1,4 +1,4 @@
-FROM ubuntu:jammy
+FROM ubuntu:22.10
 
 ENV DISPLAY=:1 \
     VNC_PORT=8443 \
